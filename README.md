@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 🎓 AI Classroom Monitoring System (Frontend)
 
 An intelligent AI-powered classroom monitoring dashboard designed to automate attendance, monitor student behavior, and provide real-time analytics for modern educational institutions.
@@ -158,3 +159,6 @@ Real-time alerts via SMS / Email
 ⭐ Support
 
 If you like this project, give it a ⭐ on GitHub!
+=======
+# AI-Classroom-Monitoring-Frontend
+>>>>>>> e17c0f8cc4cf5ee41001f1f20e76a4c8b31b793b
