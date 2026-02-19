@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 🎓 AI Classroom Monitoring System (Frontend)
 
 An intelligent AI-powered classroom monitoring dashboard designed to automate attendance, monitor student behavior, and provide real-time analytics for modern educational institutions.
